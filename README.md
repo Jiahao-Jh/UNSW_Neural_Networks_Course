@@ -5,11 +5,11 @@ Final mark achieved 93.
 
 ## content
 
-This repo contain assignment 2 of the course, the aim of this assignment is to classify cats' breed from its image with self designed deeping network
+This repo contain assignment 2 of the course, the aim of this assignment is to classify cat breeds from its image with self designed deeping network
 
 ## Run this project
 
-make sure all packages is installed then run `python student.py`
+Make sure all packages is installed then run `python student.py`
 
 ## Demo
 

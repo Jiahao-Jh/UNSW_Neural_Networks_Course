@@ -5,7 +5,8 @@ Final mark achieved 93.
 
 ## content
 
-This repo contain assignment 2 of the course, the aim of this assignment is to classify cat breeds from its image with self designed deeping network
+This repo contain assignment 2 of the course, the aim of this assignment is to classify cat breeds from its image with self designed deeping network.
+The network architecture in this project is based on DenseNet.
 
 ## Run this project
 

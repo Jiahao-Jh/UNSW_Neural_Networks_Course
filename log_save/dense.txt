@@ -1,0 +1,756 @@
+ep 1, loss: 117.60, 6400 train 19.73%, 1600 test 25.87% 
+ep 2, loss: 97.42, 6400 train 22.77%, 1600 test 33.38% 
+ep 3, loss: 94.05, 6400 train 26.55%, 1600 test 30.81% 
+ep 4, loss: 94.02, 6400 train 26.70%, 1600 test 27.50% 
+ep 5, loss: 93.70, 6400 train 27.28%, 1600 test 34.50% 
+ep 6, loss: 92.62, 6400 train 28.72%, 1600 test 28.44% 
+ep 7, loss: 93.00, 6400 train 27.66%, 1600 test 28.06% 
+ep 8, loss: 92.22, 6400 train 28.70%, 1600 test 30.31% 
+ep 9, loss: 92.21, 6400 train 28.83%, 1600 test 31.75% 
+ep 10, loss: 89.78, 6400 train 31.70%, 1600 test 32.00% 
+ep 11, loss: 89.88, 6400 train 31.06%, 1600 test 34.44% 
+ep 12, loss: 88.60, 6400 train 32.11%, 1600 test 32.81% 
+ep 13, loss: 88.75, 6400 train 32.27%, 1600 test 37.94% 
+ep 14, loss: 87.59, 6400 train 33.45%, 1600 test 40.94% 
+ep 15, loss: 87.88, 6400 train 33.02%, 1600 test 34.44% 
+ep 16, loss: 84.72, 6400 train 36.23%, 1600 test 41.06% 
+ep 17, loss: 85.37, 6400 train 35.70%, 1600 test 42.75% 
+ep 18, loss: 85.30, 6400 train 35.81%, 1600 test 28.19% 
+ep 19, loss: 86.02, 6400 train 35.75%, 1600 test 39.44% 
+ep 20, loss: 84.22, 6400 train 36.30%, 1600 test 42.12% 
+ep 21, loss: 82.83, 6400 train 37.50%, 1600 test 43.75% 
+ep 22, loss: 81.04, 6400 train 39.36%, 1600 test 39.81% 
+ep 23, loss: 81.04, 6400 train 40.17%, 1600 test 45.50% 
+ep 24, loss: 79.29, 6400 train 41.98%, 1600 test 51.19% 
+ep 25, loss: 79.62, 6400 train 41.62%, 1600 test 48.56% 
+ep 26, loss: 78.72, 6400 train 42.27%, 1600 test 44.06% 
+ep 27, loss: 76.89, 6400 train 43.62%, 1600 test 48.75% 
+ep 28, loss: 76.48, 6400 train 44.22%, 1600 test 52.12% 
+ep 29, loss: 74.80, 6400 train 45.64%, 1600 test 52.31% 
+ep 30, loss: 74.37, 6400 train 46.56%, 1600 test 52.38% 
+ep 31, loss: 74.50, 6400 train 46.28%, 1600 test 53.56% 
+ep 32, loss: 71.59, 6400 train 49.08%, 1600 test 48.06% 
+ep 33, loss: 71.10, 6400 train 48.64%, 1600 test 55.44% 
+ep 34, loss: 71.62, 6400 train 48.91%, 1600 test 54.56% 
+ep 35, loss: 69.64, 6400 train 50.67%, 1600 test 52.50% 
+ep 36, loss: 67.84, 6400 train 51.39%, 1600 test 56.88% 
+ep 37, loss: 67.27, 6400 train 52.17%, 1600 test 60.38% 
+ep 38, loss: 66.97, 6400 train 52.16%, 1600 test 56.50% 
+ep 39, loss: 66.36, 6400 train 52.17%, 1600 test 51.00% 
+ep 40, loss: 65.60, 6400 train 53.52%, 1600 test 61.06% 
+ep 41, loss: 65.64, 6400 train 53.27%, 1600 test 62.12% 
+ep 42, loss: 63.89, 6400 train 54.48%, 1600 test 63.94% 
+ep 43, loss: 63.86, 6400 train 54.95%, 1600 test 66.06% 
+ep 44, loss: 62.76, 6400 train 55.53%, 1600 test 64.19% 
+ep 45, loss: 63.30, 6400 train 55.55%, 1600 test 58.13% 
+ep 46, loss: 61.63, 6400 train 56.08%, 1600 test 60.56% 
+ep 47, loss: 61.46, 6400 train 56.47%, 1600 test 55.38% 
+ep 48, loss: 60.20, 6400 train 57.80%, 1600 test 66.94% 
+ep 49, loss: 60.98, 6400 train 56.97%, 1600 test 55.38% 
+ep 50, loss: 60.31, 6400 train 57.80%, 1600 test 61.94% 
+ep 51, loss: 60.05, 6400 train 56.98%, 1600 test 42.12% 
+ep 52, loss: 66.81, 6400 train 52.30%, 1600 test 60.25% 
+ep 53, loss: 61.92, 6400 train 56.66%, 1600 test 66.25% 
+ep 54, loss: 60.58, 6400 train 56.81%, 1600 test 64.75% 
+ep 55, loss: 58.36, 6400 train 58.94%, 1600 test 68.25% 
+ep 56, loss: 57.90, 6400 train 58.88%, 1600 test 70.62% 
+ep 57, loss: 57.94, 6400 train 59.55%, 1600 test 67.50% 
+ep 58, loss: 56.98, 6400 train 60.41%, 1600 test 64.88% 
+ep 59, loss: 56.27, 6400 train 60.16%, 1600 test 71.88% 
+ep 60, loss: 60.71, 6400 train 57.75%, 1600 test 67.88% 
+ep 61, loss: 56.49, 6400 train 60.41%, 1600 test 66.00% 
+ep 62, loss: 55.98, 6400 train 60.55%, 1600 test 68.50% 
+ep 63, loss: 55.23, 6400 train 61.39%, 1600 test 66.62% 
+ep 64, loss: 55.09, 6400 train 61.27%, 1600 test 68.12% 
+ep 65, loss: 54.77, 6400 train 61.62%, 1600 test 65.06% 
+ep 66, loss: 54.63, 6400 train 61.58%, 1600 test 70.56% 
+ep 67, loss: 53.61, 6400 train 62.91%, 1600 test 67.56% 
+ep 68, loss: 53.41, 6400 train 62.44%, 1600 test 72.69% 
+ep 69, loss: 52.45, 6400 train 63.80%, 1600 test 69.19% 
+ep 70, loss: 53.04, 6400 train 63.44%, 1600 test 72.00% 
+ep 71, loss: 51.19, 6400 train 64.53%, 1600 test 72.00% 
+ep 72, loss: 52.17, 6400 train 63.16%, 1600 test 71.31% 
+ep 73, loss: 51.61, 6400 train 63.95%, 1600 test 68.12% 
+ep 74, loss: 51.74, 6400 train 63.41%, 1600 test 70.19% 
+ep 75, loss: 49.80, 6400 train 65.23%, 1600 test 69.19% 
+ep 76, loss: 49.52, 6400 train 65.72%, 1600 test 72.00% 
+ep 77, loss: 50.24, 6400 train 64.58%, 1600 test 71.38% 
+ep 78, loss: 49.63, 6400 train 65.02%, 1600 test 71.81% 
+ep 79, loss: 49.14, 6400 train 66.06%, 1600 test 72.81% 
+ep 80, loss: 48.80, 6400 train 66.08%, 1600 test 71.25% 
+ep 81, loss: 49.07, 6400 train 65.50%, 1600 test 73.12% 
+ep 82, loss: 49.39, 6400 train 65.55%, 1600 test 70.00% 
+ep 83, loss: 49.12, 6400 train 65.80%, 1600 test 73.25% 
+ep 84, loss: 47.43, 6400 train 67.61%, 1600 test 75.06% 
+ep 85, loss: 48.56, 6400 train 66.61%, 1600 test 70.62% 
+ep 86, loss: 47.00, 6400 train 67.14%, 1600 test 75.44% 
+ep 87, loss: 49.32, 6400 train 65.25%, 1600 test 72.50% 
+ep 88, loss: 48.23, 6400 train 66.52%, 1600 test 75.19% 
+ep 89, loss: 46.96, 6400 train 67.27%, 1600 test 69.75% 
+ep 90, loss: 47.53, 6400 train 66.89%, 1600 test 74.69% 
+ep 91, loss: 45.45, 6400 train 68.41%, 1600 test 73.62% 
+ep 92, loss: 45.92, 6400 train 68.50%, 1600 test 72.31% 
+ep 93, loss: 45.80, 6400 train 68.02%, 1600 test 73.56% 
+ep 94, loss: 46.66, 6400 train 67.30%, 1600 test 75.50% 
+ep 95, loss: 46.90, 6400 train 67.48%, 1600 test 73.38% 
+ep 96, loss: 45.62, 6400 train 68.80%, 1600 test 73.31% 
+ep 97, loss: 45.87, 6400 train 68.34%, 1600 test 76.44% 
+ep 98, loss: 44.74, 6400 train 68.72%, 1600 test 67.25% 
+ep 99, loss: 46.20, 6400 train 67.98%, 1600 test 73.56% 
+ep 100, loss: 44.54, 6400 train 69.30%, 1600 test 75.00% 
+ep 101, loss: 44.85, 6400 train 68.48%, 1600 test 76.69% 
+ep 102, loss: 43.94, 6400 train 69.30%, 1600 test 73.88% 
+ep 103, loss: 43.89, 6400 train 69.70%, 1600 test 74.50% 
+ep 104, loss: 43.83, 6400 train 69.34%, 1600 test 71.50% 
+ep 105, loss: 44.85, 6400 train 68.33%, 1600 test 75.50% 
+ep 106, loss: 43.88, 6400 train 68.42%, 1600 test 69.56% 
+ep 107, loss: 44.64, 6400 train 69.23%, 1600 test 76.50% 
+ep 108, loss: 44.22, 6400 train 69.31%, 1600 test 75.06% 
+ep 109, loss: 42.63, 6400 train 70.59%, 1600 test 73.12% 
+ep 110, loss: 43.13, 6400 train 69.89%, 1600 test 75.56% 
+ep 111, loss: 42.35, 6400 train 71.06%, 1600 test 77.31% 
+ep 112, loss: 42.60, 6400 train 70.55%, 1600 test 75.75% 
+ep 113, loss: 41.48, 6400 train 71.16%, 1600 test 76.25% 
+ep 114, loss: 41.34, 6400 train 71.44%, 1600 test 76.06% 
+ep 115, loss: 44.17, 6400 train 69.20%, 1600 test 74.69% 
+ep 116, loss: 42.65, 6400 train 70.11%, 1600 test 72.62% 
+ep 117, loss: 43.04, 6400 train 69.89%, 1600 test 76.38% 
+ep 118, loss: 42.08, 6400 train 71.02%, 1600 test 77.38% 
+ep 119, loss: 40.71, 6400 train 71.58%, 1600 test 78.44% 
+ep 120, loss: 42.49, 6400 train 69.62%, 1600 test 77.25% 
+ep 121, loss: 41.09, 6400 train 71.11%, 1600 test 75.62% 
+ep 122, loss: 41.61, 6400 train 70.86%, 1600 test 78.19% 
+ep 123, loss: 42.45, 6400 train 69.94%, 1600 test 76.69% 
+ep 124, loss: 39.98, 6400 train 72.12%, 1600 test 74.12% 
+ep 125, loss: 41.27, 6400 train 71.41%, 1600 test 76.25% 
+ep 126, loss: 40.27, 6400 train 71.86%, 1600 test 76.00% 
+ep 127, loss: 41.66, 6400 train 70.55%, 1600 test 76.00% 
+ep 128, loss: 40.31, 6400 train 72.16%, 1600 test 72.94% 
+ep 129, loss: 40.79, 6400 train 71.28%, 1600 test 75.69% 
+ep 130, loss: 40.70, 6400 train 71.52%, 1600 test 76.81% 
+ep 131, loss: 40.40, 6400 train 71.80%, 1600 test 75.00% 
+ep 132, loss: 40.33, 6400 train 72.28%, 1600 test 76.38% 
+ep 133, loss: 39.93, 6400 train 72.53%, 1600 test 75.69% 
+ep 134, loss: 40.05, 6400 train 72.23%, 1600 test 77.50% 
+ep 135, loss: 39.90, 6400 train 72.31%, 1600 test 76.50% 
+ep 136, loss: 39.27, 6400 train 72.31%, 1600 test 72.50% 
+ep 137, loss: 39.65, 6400 train 72.58%, 1600 test 76.19% 
+ep 138, loss: 39.19, 6400 train 72.58%, 1600 test 75.56% 
+ep 139, loss: 39.43, 6400 train 72.61%, 1600 test 76.75% 
+ep 140, loss: 38.70, 6400 train 73.50%, 1600 test 73.81% 
+ep 141, loss: 39.30, 6400 train 72.67%, 1600 test 71.81% 
+ep 142, loss: 38.57, 6400 train 73.67%, 1600 test 76.94% 
+ep 143, loss: 38.56, 6400 train 73.33%, 1600 test 75.31% 
+ep 144, loss: 38.87, 6400 train 73.11%, 1600 test 72.00% 
+ep 145, loss: 39.12, 6400 train 72.94%, 1600 test 77.81% 
+ep 146, loss: 38.95, 6400 train 72.83%, 1600 test 77.81% 
+ep 147, loss: 38.16, 6400 train 73.33%, 1600 test 78.94% 
+ep 148, loss: 37.43, 6400 train 74.09%, 1600 test 73.19% 
+ep 149, loss: 37.56, 6400 train 73.66%, 1600 test 77.69% 
+ep 150, loss: 38.09, 6400 train 73.78%, 1600 test 78.00% 
+ep 151, loss: 38.41, 6400 train 73.20%, 1600 test 76.88% 
+ep 152, loss: 37.99, 6400 train 73.72%, 1600 test 77.62% 
+ep 153, loss: 38.43, 6400 train 73.48%, 1600 test 77.12% 
+ep 154, loss: 37.10, 6400 train 74.34%, 1600 test 77.38% 
+ep 155, loss: 38.43, 6400 train 73.09%, 1600 test 78.50% 
+ep 156, loss: 37.70, 6400 train 74.12%, 1600 test 79.31% 
+ep 157, loss: 37.10, 6400 train 74.25%, 1600 test 78.25% 
+ep 158, loss: 37.38, 6400 train 74.12%, 1600 test 77.75% 
+ep 159, loss: 36.74, 6400 train 74.16%, 1600 test 78.19% 
+ep 160, loss: 37.41, 6400 train 73.86%, 1600 test 74.94% 
+ep 161, loss: 37.41, 6400 train 74.09%, 1600 test 78.50% 
+ep 162, loss: 37.20, 6400 train 74.17%, 1600 test 76.81% 
+ep 163, loss: 34.82, 6400 train 75.66%, 1600 test 80.75% 
+ep 164, loss: 35.96, 6400 train 74.70%, 1600 test 80.44% 
+ep 165, loss: 36.84, 6400 train 74.22%, 1600 test 76.81% 
+ep 166, loss: 36.91, 6400 train 74.20%, 1600 test 79.56% 
+ep 167, loss: 36.25, 6400 train 74.41%, 1600 test 77.81% 
+ep 168, loss: 36.25, 6400 train 74.70%, 1600 test 74.88% 
+ep 169, loss: 35.47, 6400 train 75.52%, 1600 test 79.50% 
+ep 170, loss: 37.70, 6400 train 73.61%, 1600 test 76.94% 
+ep 171, loss: 36.45, 6400 train 74.20%, 1600 test 78.69% 
+ep 172, loss: 36.11, 6400 train 74.94%, 1600 test 79.19% 
+ep 173, loss: 36.09, 6400 train 74.86%, 1600 test 77.44% 
+ep 174, loss: 36.32, 6400 train 74.91%, 1600 test 78.75% 
+ep 175, loss: 35.73, 6400 train 74.97%, 1600 test 77.81% 
+ep 176, loss: 35.19, 6400 train 75.62%, 1600 test 75.81% 
+ep 177, loss: 35.94, 6400 train 74.95%, 1600 test 77.88% 
+ep 178, loss: 34.44, 6400 train 75.48%, 1600 test 80.12% 
+ep 179, loss: 35.59, 6400 train 75.59%, 1600 test 78.62% 
+ep 180, loss: 35.18, 6400 train 75.12%, 1600 test 80.00% 
+ep 181, loss: 35.57, 6400 train 75.41%, 1600 test 80.38% 
+ep 182, loss: 34.53, 6400 train 75.94%, 1600 test 78.94% 
+ep 183, loss: 34.06, 6400 train 76.17%, 1600 test 78.25% 
+ep 184, loss: 34.48, 6400 train 76.19%, 1600 test 79.44% 
+ep 185, loss: 34.30, 6400 train 76.05%, 1600 test 79.69% 
+ep 186, loss: 35.09, 6400 train 75.33%, 1600 test 79.38% 
+ep 187, loss: 34.76, 6400 train 75.58%, 1600 test 80.12% 
+ep 188, loss: 34.03, 6400 train 76.61%, 1600 test 75.12% 
+ep 189, loss: 34.18, 6400 train 76.31%, 1600 test 80.44% 
+ep 190, loss: 35.70, 6400 train 74.94%, 1600 test 78.56% 
+ep 191, loss: 33.66, 6400 train 76.69%, 1600 test 78.62% 
+ep 192, loss: 34.72, 6400 train 75.86%, 1600 test 76.69% 
+ep 193, loss: 33.71, 6400 train 76.53%, 1600 test 77.06% 
+ep 194, loss: 35.27, 6400 train 75.17%, 1600 test 78.75% 
+ep 195, loss: 34.58, 6400 train 75.30%, 1600 test 80.88% 
+ep 196, loss: 33.67, 6400 train 77.00%, 1600 test 78.62% 
+ep 197, loss: 32.60, 6400 train 76.92%, 1600 test 79.56% 
+ep 198, loss: 33.33, 6400 train 76.62%, 1600 test 79.19% 
+ep 199, loss: 34.31, 6400 train 75.73%, 1600 test 79.31% 
+ep 200, loss: 33.38, 6400 train 76.56%, 1600 test 78.12% 
+ep 201, loss: 33.82, 6400 train 77.41%, 1600 test 78.44% 
+ep 202, loss: 33.02, 6400 train 77.42%, 1600 test 80.38% 
+ep 203, loss: 33.81, 6400 train 76.39%, 1600 test 79.62% 
+ep 204, loss: 33.61, 6400 train 76.53%, 1600 test 78.62% 
+ep 205, loss: 33.70, 6400 train 76.14%, 1600 test 79.88% 
+ep 206, loss: 33.40, 6400 train 76.70%, 1600 test 78.94% 
+ep 207, loss: 32.28, 6400 train 77.66%, 1600 test 77.94% 
+ep 208, loss: 31.58, 6400 train 78.05%, 1600 test 80.12% 
+ep 209, loss: 32.64, 6400 train 77.34%, 1600 test 79.62% 
+ep 210, loss: 32.93, 6400 train 76.88%, 1600 test 80.94% 
+ep 211, loss: 33.16, 6400 train 77.62%, 1600 test 79.00% 
+ep 212, loss: 32.61, 6400 train 77.14%, 1600 test 81.50% 
+ep 213, loss: 33.43, 6400 train 76.64%, 1600 test 78.75% 
+ep 214, loss: 33.60, 6400 train 76.30%, 1600 test 79.88% 
+ep 215, loss: 33.47, 6400 train 76.89%, 1600 test 80.38% 
+ep 216, loss: 32.87, 6400 train 77.08%, 1600 test 79.19% 
+ep 217, loss: 33.06, 6400 train 76.98%, 1600 test 79.88% 
+ep 218, loss: 33.32, 6400 train 76.94%, 1600 test 78.50% 
+ep 219, loss: 31.58, 6400 train 78.14%, 1600 test 77.38% 
+ep 220, loss: 33.53, 6400 train 76.78%, 1600 test 82.50% 
+ep 221, loss: 32.85, 6400 train 77.12%, 1600 test 80.38% 
+ep 222, loss: 31.79, 6400 train 77.91%, 1600 test 78.69% 
+ep 223, loss: 32.31, 6400 train 77.38%, 1600 test 79.12% 
+ep 224, loss: 31.44, 6400 train 78.09%, 1600 test 78.44% 
+ep 225, loss: 31.95, 6400 train 78.14%, 1600 test 78.25% 
+ep 226, loss: 31.38, 6400 train 78.23%, 1600 test 78.62% 
+ep 227, loss: 31.40, 6400 train 78.55%, 1600 test 79.25% 
+ep 228, loss: 32.23, 6400 train 77.98%, 1600 test 79.38% 
+ep 229, loss: 32.75, 6400 train 77.17%, 1600 test 78.12% 
+ep 230, loss: 31.68, 6400 train 77.92%, 1600 test 78.94% 
+ep 231, loss: 31.03, 6400 train 77.98%, 1600 test 77.19% 
+ep 232, loss: 32.58, 6400 train 77.22%, 1600 test 79.06% 
+ep 233, loss: 32.02, 6400 train 77.80%, 1600 test 79.50% 
+ep 234, loss: 31.08, 6400 train 78.45%, 1600 test 76.38% 
+ep 235, loss: 32.21, 6400 train 76.95%, 1600 test 78.69% 
+ep 236, loss: 30.82, 6400 train 78.23%, 1600 test 81.19% 
+ep 237, loss: 31.19, 6400 train 78.23%, 1600 test 82.38% 
+ep 238, loss: 30.14, 6400 train 79.34%, 1600 test 79.00% 
+ep 239, loss: 31.44, 6400 train 78.50%, 1600 test 79.44% 
+ep 240, loss: 30.06, 6400 train 78.67%, 1600 test 80.00% 
+ep 241, loss: 30.94, 6400 train 78.77%, 1600 test 78.31% 
+ep 242, loss: 30.80, 6400 train 78.78%, 1600 test 79.94% 
+ep 243, loss: 30.93, 6400 train 78.27%, 1600 test 80.50% 
+ep 244, loss: 31.65, 6400 train 77.88%, 1600 test 80.31% 
+ep 245, loss: 30.61, 6400 train 79.06%, 1600 test 78.31% 
+ep 246, loss: 31.58, 6400 train 78.11%, 1600 test 80.31% 
+ep 247, loss: 31.28, 6400 train 77.94%, 1600 test 80.69% 
+ep 248, loss: 31.11, 6400 train 78.44%, 1600 test 77.69% 
+ep 249, loss: 30.18, 6400 train 79.02%, 1600 test 81.88% 
+ep 250, loss: 30.84, 6400 train 78.12%, 1600 test 80.56% 
+ep 251, loss: 29.78, 6400 train 79.47%, 1600 test 77.19% 
+ep 252, loss: 31.58, 6400 train 78.17%, 1600 test 80.38% 
+ep 253, loss: 30.76, 6400 train 78.91%, 1600 test 79.75% 
+ep 254, loss: 29.93, 6400 train 79.39%, 1600 test 77.56% 
+ep 255, loss: 31.54, 6400 train 78.38%, 1600 test 78.69% 
+ep 256, loss: 30.08, 6400 train 78.97%, 1600 test 79.88% 
+ep 257, loss: 30.01, 6400 train 78.92%, 1600 test 82.00% 
+ep 258, loss: 29.80, 6400 train 79.39%, 1600 test 78.88% 
+ep 259, loss: 30.16, 6400 train 78.84%, 1600 test 78.50% 
+ep 260, loss: 30.32, 6400 train 79.33%, 1600 test 79.31% 
+ep 261, loss: 30.00, 6400 train 78.75%, 1600 test 81.12% 
+ep 262, loss: 29.84, 6400 train 78.78%, 1600 test 80.56% 
+ep 263, loss: 30.38, 6400 train 79.11%, 1600 test 80.19% 
+ep 264, loss: 28.74, 6400 train 79.73%, 1600 test 80.62% 
+ep 265, loss: 30.29, 6400 train 79.02%, 1600 test 81.38% 
+ep 266, loss: 29.78, 6400 train 79.12%, 1600 test 80.06% 
+ep 267, loss: 29.96, 6400 train 78.80%, 1600 test 78.50% 
+ep 268, loss: 28.84, 6400 train 80.09%, 1600 test 78.88% 
+ep 269, loss: 30.49, 6400 train 78.89%, 1600 test 77.69% 
+ep 270, loss: 29.52, 6400 train 79.78%, 1600 test 79.81% 
+ep 271, loss: 30.05, 6400 train 79.16%, 1600 test 79.06% 
+ep 272, loss: 30.52, 6400 train 78.72%, 1600 test 80.62% 
+ep 273, loss: 29.41, 6400 train 79.86%, 1600 test 81.25% 
+ep 274, loss: 28.67, 6400 train 79.78%, 1600 test 81.31% 
+ep 275, loss: 30.52, 6400 train 79.19%, 1600 test 79.12% 
+ep 276, loss: 29.69, 6400 train 79.47%, 1600 test 78.94% 
+ep 277, loss: 30.37, 6400 train 79.00%, 1600 test 81.31% 
+ep 278, loss: 29.98, 6400 train 79.25%, 1600 test 81.12% 
+ep 279, loss: 29.66, 6400 train 79.53%, 1600 test 80.69% 
+ep 280, loss: 29.27, 6400 train 79.66%, 1600 test 81.38% 
+ep 281, loss: 29.00, 6400 train 79.92%, 1600 test 80.94% 
+ep 282, loss: 28.69, 6400 train 80.62%, 1600 test 75.88% 
+ep 283, loss: 29.11, 6400 train 79.75%, 1600 test 81.12% 
+ep 284, loss: 27.61, 6400 train 80.61%, 1600 test 80.25% 
+ep 285, loss: 28.32, 6400 train 80.02%, 1600 test 78.12% 
+ep 286, loss: 29.17, 6400 train 80.27%, 1600 test 78.38% 
+ep 287, loss: 29.21, 6400 train 79.78%, 1600 test 79.12% 
+ep 288, loss: 29.62, 6400 train 79.84%, 1600 test 81.12% 
+ep 289, loss: 29.53, 6400 train 79.72%, 1600 test 76.50% 
+ep 290, loss: 29.37, 6400 train 79.75%, 1600 test 81.56% 
+ep 291, loss: 29.58, 6400 train 79.64%, 1600 test 78.19% 
+ep 292, loss: 29.64, 6400 train 79.17%, 1600 test 78.88% 
+ep 293, loss: 28.07, 6400 train 80.62%, 1600 test 78.69% 
+ep 294, loss: 28.69, 6400 train 80.28%, 1600 test 80.31% 
+ep 295, loss: 28.51, 6400 train 80.48%, 1600 test 80.44% 
+ep 296, loss: 28.67, 6400 train 79.80%, 1600 test 79.75% 
+ep 297, loss: 28.61, 6400 train 80.02%, 1600 test 80.81% 
+ep 298, loss: 29.49, 6400 train 79.59%, 1600 test 79.50% 
+ep 299, loss: 28.51, 6400 train 80.56%, 1600 test 79.75% 
+ep 300, loss: 28.72, 6400 train 79.66%, 1600 test 79.75% 
+ep 301, loss: 27.22, 6400 train 81.19%, 1600 test 80.25% 
+ep 302, loss: 28.95, 6400 train 80.08%, 1600 test 80.06% 
+ep 303, loss: 28.51, 6400 train 79.95%, 1600 test 81.19% 
+ep 304, loss: 28.17, 6400 train 81.12%, 1600 test 77.12% 
+ep 305, loss: 28.17, 6400 train 80.20%, 1600 test 82.50% 
+ep 306, loss: 28.84, 6400 train 79.83%, 1600 test 77.62% 
+ep 307, loss: 28.38, 6400 train 80.78%, 1600 test 82.25% 
+ep 308, loss: 27.96, 6400 train 80.52%, 1600 test 77.50% 
+ep 309, loss: 27.12, 6400 train 80.97%, 1600 test 80.75% 
+ep 310, loss: 27.93, 6400 train 80.78%, 1600 test 82.19% 
+ep 311, loss: 28.43, 6400 train 80.77%, 1600 test 78.94% 
+ep 312, loss: 27.86, 6400 train 80.52%, 1600 test 80.50% 
+ep 313, loss: 28.52, 6400 train 80.11%, 1600 test 79.88% 
+ep 314, loss: 28.06, 6400 train 80.75%, 1600 test 80.75% 
+ep 315, loss: 28.78, 6400 train 80.03%, 1600 test 81.38% 
+ep 316, loss: 27.47, 6400 train 81.00%, 1600 test 81.06% 
+ep 317, loss: 28.31, 6400 train 80.53%, 1600 test 81.44% 
+ep 318, loss: 28.57, 6400 train 79.62%, 1600 test 77.69% 
+ep 319, loss: 27.40, 6400 train 80.66%, 1600 test 82.88% 
+ep 320, loss: 27.34, 6400 train 81.08%, 1600 test 78.00% 
+ep 321, loss: 28.39, 6400 train 80.19%, 1600 test 78.69% 
+ep 322, loss: 27.57, 6400 train 81.28%, 1600 test 78.50% 
+ep 323, loss: 28.01, 6400 train 80.75%, 1600 test 81.38% 
+ep 324, loss: 28.11, 6400 train 79.80%, 1600 test 78.31% 
+ep 325, loss: 27.95, 6400 train 80.70%, 1600 test 79.19% 
+ep 326, loss: 27.82, 6400 train 80.58%, 1600 test 76.25% 
+ep 327, loss: 27.90, 6400 train 80.58%, 1600 test 79.44% 
+ep 328, loss: 27.90, 6400 train 80.77%, 1600 test 80.75% 
+ep 329, loss: 27.22, 6400 train 80.98%, 1600 test 81.69% 
+ep 330, loss: 27.50, 6400 train 80.95%, 1600 test 79.38% 
+ep 331, loss: 27.85, 6400 train 80.30%, 1600 test 81.56% 
+ep 332, loss: 27.35, 6400 train 81.16%, 1600 test 80.81% 
+ep 333, loss: 27.52, 6400 train 80.80%, 1600 test 81.62% 
+ep 334, loss: 27.75, 6400 train 80.78%, 1600 test 79.62% 
+ep 335, loss: 28.12, 6400 train 80.39%, 1600 test 81.00% 
+ep 336, loss: 28.36, 6400 train 80.20%, 1600 test 79.06% 
+ep 337, loss: 27.37, 6400 train 81.05%, 1600 test 79.88% 
+ep 338, loss: 26.95, 6400 train 81.08%, 1600 test 80.50% 
+ep 339, loss: 27.51, 6400 train 81.27%, 1600 test 80.81% 
+ep 340, loss: 26.27, 6400 train 81.58%, 1600 test 79.81% 
+ep 341, loss: 27.16, 6400 train 80.81%, 1600 test 81.25% 
+ep 342, loss: 27.16, 6400 train 80.97%, 1600 test 81.44% 
+ep 343, loss: 26.92, 6400 train 81.89%, 1600 test 81.44% 
+ep 344, loss: 26.92, 6400 train 81.05%, 1600 test 80.56% 
+ep 345, loss: 27.33, 6400 train 81.02%, 1600 test 80.38% 
+ep 346, loss: 26.40, 6400 train 81.20%, 1600 test 81.94% 
+ep 347, loss: 27.01, 6400 train 81.19%, 1600 test 81.06% 
+ep 348, loss: 26.95, 6400 train 81.47%, 1600 test 81.69% 
+ep 349, loss: 28.19, 6400 train 80.33%, 1600 test 77.12% 
+ep 350, loss: 26.47, 6400 train 81.14%, 1600 test 81.31% 
+ep 351, loss: 27.04, 6400 train 81.12%, 1600 test 81.94% 
+ep 352, loss: 26.47, 6400 train 82.03%, 1600 test 80.69% 
+ep 353, loss: 26.43, 6400 train 81.38%, 1600 test 80.69% 
+ep 354, loss: 27.35, 6400 train 80.78%, 1600 test 82.88% 
+ep 355, loss: 26.25, 6400 train 81.64%, 1600 test 82.31% 
+ep 356, loss: 26.42, 6400 train 81.69%, 1600 test 81.38% 
+ep 357, loss: 27.47, 6400 train 81.38%, 1600 test 80.56% 
+ep 358, loss: 26.86, 6400 train 80.78%, 1600 test 83.31% 
+ep 359, loss: 26.95, 6400 train 81.47%, 1600 test 80.94% 
+ep 360, loss: 27.06, 6400 train 80.92%, 1600 test 81.19% 
+ep 361, loss: 27.02, 6400 train 80.69%, 1600 test 80.69% 
+ep 362, loss: 27.99, 6400 train 81.11%, 1600 test 81.38% 
+ep 363, loss: 26.07, 6400 train 82.00%, 1600 test 81.00% 
+ep 364, loss: 26.31, 6400 train 81.95%, 1600 test 78.81% 
+ep 365, loss: 27.13, 6400 train 81.34%, 1600 test 82.00% 
+ep 366, loss: 26.70, 6400 train 81.52%, 1600 test 81.44% 
+ep 367, loss: 26.12, 6400 train 81.70%, 1600 test 80.56% 
+ep 368, loss: 25.88, 6400 train 81.86%, 1600 test 82.38% 
+ep 369, loss: 25.94, 6400 train 81.94%, 1600 test 81.69% 
+ep 370, loss: 26.12, 6400 train 81.70%, 1600 test 80.19% 
+ep 371, loss: 27.79, 6400 train 80.89%, 1600 test 81.75% 
+ep 372, loss: 26.22, 6400 train 81.80%, 1600 test 81.94% 
+ep 373, loss: 26.87, 6400 train 81.48%, 1600 test 81.94% 
+ep 374, loss: 26.74, 6400 train 81.23%, 1600 test 81.12% 
+ep 375, loss: 26.51, 6400 train 81.75%, 1600 test 81.38% 
+ep 376, loss: 25.84, 6400 train 82.22%, 1600 test 83.00% 
+ep 377, loss: 26.13, 6400 train 81.94%, 1600 test 80.94% 
+ep 378, loss: 25.63, 6400 train 82.33%, 1600 test 82.06% 
+ep 379, loss: 26.11, 6400 train 81.81%, 1600 test 80.38% 
+ep 380, loss: 26.33, 6400 train 82.16%, 1600 test 80.81% 
+ep 381, loss: 26.00, 6400 train 81.91%, 1600 test 80.31% 
+ep 382, loss: 25.97, 6400 train 82.14%, 1600 test 80.19% 
+ep 383, loss: 25.82, 6400 train 82.11%, 1600 test 81.06% 
+ep 384, loss: 25.95, 6400 train 81.53%, 1600 test 80.69% 
+ep 385, loss: 24.97, 6400 train 82.70%, 1600 test 81.38% 
+ep 386, loss: 26.07, 6400 train 81.44%, 1600 test 80.19% 
+ep 387, loss: 24.61, 6400 train 82.62%, 1600 test 80.31% 
+ep 388, loss: 25.52, 6400 train 82.08%, 1600 test 82.75% 
+ep 389, loss: 26.72, 6400 train 80.98%, 1600 test 80.88% 
+ep 390, loss: 25.76, 6400 train 81.86%, 1600 test 81.81% 
+ep 391, loss: 26.08, 6400 train 82.00%, 1600 test 80.75% 
+ep 392, loss: 26.83, 6400 train 81.30%, 1600 test 82.75% 
+ep 393, loss: 25.42, 6400 train 82.89%, 1600 test 80.94% 
+ep 394, loss: 27.04, 6400 train 81.89%, 1600 test 80.81% 
+ep 395, loss: 26.17, 6400 train 82.14%, 1600 test 80.75% 
+ep 396, loss: 25.02, 6400 train 82.41%, 1600 test 82.12% 
+ep 397, loss: 25.71, 6400 train 82.28%, 1600 test 81.12% 
+ep 398, loss: 25.60, 6400 train 82.22%, 1600 test 82.00% 
+ep 399, loss: 25.89, 6400 train 81.81%, 1600 test 77.00% 
+ep 400, loss: 25.56, 6400 train 82.67%, 1600 test 82.62% 
+ep 401, loss: 25.90, 6400 train 82.08%, 1600 test 81.94% 
+ep 402, loss: 25.89, 6400 train 81.41%, 1600 test 81.88% 
+ep 403, loss: 25.65, 6400 train 82.16%, 1600 test 80.44% 
+ep 404, loss: 24.42, 6400 train 82.80%, 1600 test 82.19% 
+ep 405, loss: 24.97, 6400 train 82.70%, 1600 test 82.31% 
+ep 406, loss: 25.22, 6400 train 82.44%, 1600 test 80.69% 
+ep 407, loss: 25.25, 6400 train 82.25%, 1600 test 81.19% 
+ep 408, loss: 24.83, 6400 train 82.31%, 1600 test 82.00% 
+ep 409, loss: 25.17, 6400 train 82.62%, 1600 test 81.88% 
+ep 410, loss: 25.83, 6400 train 81.75%, 1600 test 81.81% 
+ep 411, loss: 24.79, 6400 train 82.91%, 1600 test 82.00% 
+ep 412, loss: 25.61, 6400 train 82.02%, 1600 test 81.44% 
+ep 413, loss: 25.44, 6400 train 82.14%, 1600 test 81.75% 
+ep 414, loss: 25.51, 6400 train 82.14%, 1600 test 81.44% 
+ep 415, loss: 25.49, 6400 train 82.62%, 1600 test 82.44% 
+ep 416, loss: 26.04, 6400 train 81.80%, 1600 test 79.06% 
+ep 417, loss: 25.42, 6400 train 82.52%, 1600 test 81.25% 
+ep 418, loss: 25.94, 6400 train 81.61%, 1600 test 82.12% 
+ep 419, loss: 24.96, 6400 train 83.20%, 1600 test 79.88% 
+ep 420, loss: 24.72, 6400 train 82.66%, 1600 test 80.12% 
+ep 421, loss: 25.19, 6400 train 82.70%, 1600 test 81.69% 
+ep 422, loss: 24.95, 6400 train 82.08%, 1600 test 82.38% 
+ep 423, loss: 24.98, 6400 train 83.06%, 1600 test 78.75% 
+ep 424, loss: 25.12, 6400 train 82.92%, 1600 test 82.25% 
+ep 425, loss: 24.05, 6400 train 83.48%, 1600 test 80.88% 
+ep 426, loss: 25.37, 6400 train 82.25%, 1600 test 79.31% 
+ep 427, loss: 24.95, 6400 train 82.69%, 1600 test 79.56% 
+ep 428, loss: 25.92, 6400 train 81.89%, 1600 test 81.75% 
+ep 429, loss: 24.28, 6400 train 83.97%, 1600 test 82.44% 
+ep 430, loss: 25.85, 6400 train 81.83%, 1600 test 82.56% 
+ep 431, loss: 24.78, 6400 train 82.30%, 1600 test 81.75% 
+ep 432, loss: 24.33, 6400 train 83.52%, 1600 test 83.81% 
+ep 433, loss: 24.34, 6400 train 83.16%, 1600 test 79.56% 
+ep 434, loss: 25.24, 6400 train 82.61%, 1600 test 81.44% 
+ep 435, loss: 24.53, 6400 train 83.00%, 1600 test 81.81% 
+ep 436, loss: 24.37, 6400 train 82.69%, 1600 test 79.88% 
+ep 437, loss: 25.02, 6400 train 82.20%, 1600 test 81.75% 
+ep 438, loss: 25.16, 6400 train 82.64%, 1600 test 81.81% 
+ep 439, loss: 24.49, 6400 train 82.61%, 1600 test 79.56% 
+ep 440, loss: 24.97, 6400 train 82.69%, 1600 test 83.50% 
+ep 441, loss: 24.14, 6400 train 83.05%, 1600 test 82.12% 
+ep 442, loss: 24.51, 6400 train 83.48%, 1600 test 81.12% 
+ep 443, loss: 25.88, 6400 train 82.22%, 1600 test 79.69% 
+ep 444, loss: 25.55, 6400 train 81.77%, 1600 test 81.62% 
+ep 445, loss: 24.20, 6400 train 83.42%, 1600 test 83.50% 
+ep 446, loss: 23.56, 6400 train 83.83%, 1600 test 82.25% 
+ep 447, loss: 24.52, 6400 train 82.97%, 1600 test 80.12% 
+ep 448, loss: 24.45, 6400 train 83.50%, 1600 test 80.94% 
+ep 449, loss: 24.35, 6400 train 82.94%, 1600 test 80.25% 
+ep 450, loss: 24.29, 6400 train 83.56%, 1600 test 82.12% 
+ep 451, loss: 24.32, 6400 train 82.81%, 1600 test 81.19% 
+ep 452, loss: 24.67, 6400 train 83.08%, 1600 test 81.31% 
+ep 453, loss: 24.84, 6400 train 82.66%, 1600 test 81.00% 
+ep 454, loss: 23.94, 6400 train 84.06%, 1600 test 81.94% 
+ep 455, loss: 24.11, 6400 train 82.95%, 1600 test 79.75% 
+ep 456, loss: 25.28, 6400 train 82.61%, 1600 test 81.25% 
+ep 457, loss: 25.52, 6400 train 82.27%, 1600 test 79.94% 
+ep 458, loss: 24.58, 6400 train 82.95%, 1600 test 81.62% 
+ep 459, loss: 23.78, 6400 train 83.75%, 1600 test 82.06% 
+ep 460, loss: 24.86, 6400 train 82.08%, 1600 test 82.38% 
+ep 461, loss: 25.06, 6400 train 82.31%, 1600 test 81.88% 
+ep 462, loss: 24.73, 6400 train 82.14%, 1600 test 81.50% 
+ep 463, loss: 24.90, 6400 train 82.92%, 1600 test 82.31% 
+ep 464, loss: 25.52, 6400 train 82.33%, 1600 test 81.50% 
+ep 465, loss: 25.16, 6400 train 82.83%, 1600 test 82.31% 
+ep 466, loss: 24.51, 6400 train 83.23%, 1600 test 79.38% 
+ep 467, loss: 23.70, 6400 train 83.64%, 1600 test 83.06% 
+ep 468, loss: 24.00, 6400 train 83.19%, 1600 test 82.19% 
+ep 469, loss: 24.55, 6400 train 83.34%, 1600 test 82.19% 
+ep 470, loss: 25.03, 6400 train 82.39%, 1600 test 80.94% 
+ep 471, loss: 25.13, 6400 train 83.22%, 1600 test 82.44% 
+ep 472, loss: 24.88, 6400 train 82.94%, 1600 test 82.31% 
+ep 473, loss: 23.77, 6400 train 84.09%, 1600 test 82.25% 
+ep 474, loss: 24.41, 6400 train 83.53%, 1600 test 79.19% 
+ep 475, loss: 23.75, 6400 train 83.64%, 1600 test 82.88% 
+ep 476, loss: 25.33, 6400 train 81.69%, 1600 test 81.62% 
+ep 477, loss: 24.31, 6400 train 83.14%, 1600 test 82.00% 
+ep 478, loss: 24.58, 6400 train 82.84%, 1600 test 81.12% 
+ep 479, loss: 23.66, 6400 train 83.45%, 1600 test 79.81% 
+ep 480, loss: 24.82, 6400 train 82.98%, 1600 test 81.06% 
+ep 481, loss: 23.33, 6400 train 83.41%, 1600 test 83.69% 
+ep 482, loss: 24.09, 6400 train 83.17%, 1600 test 83.12% 
+ep 483, loss: 23.04, 6400 train 83.97%, 1600 test 83.50% 
+ep 484, loss: 24.38, 6400 train 82.64%, 1600 test 82.50% 
+ep 485, loss: 24.01, 6400 train 83.55%, 1600 test 82.94% 
+ep 486, loss: 24.32, 6400 train 83.23%, 1600 test 81.31% 
+ep 487, loss: 23.17, 6400 train 83.84%, 1600 test 80.88% 
+ep 488, loss: 24.31, 6400 train 83.27%, 1600 test 82.38% 
+ep 489, loss: 24.52, 6400 train 83.17%, 1600 test 80.38% 
+ep 490, loss: 24.06, 6400 train 82.94%, 1600 test 80.44% 
+ep 491, loss: 23.53, 6400 train 83.84%, 1600 test 81.56% 
+ep 492, loss: 23.66, 6400 train 83.39%, 1600 test 80.69% 
+ep 493, loss: 23.50, 6400 train 83.62%, 1600 test 79.94% 
+ep 494, loss: 24.30, 6400 train 83.38%, 1600 test 83.50% 
+ep 495, loss: 24.21, 6400 train 83.25%, 1600 test 81.81% 
+ep 496, loss: 23.27, 6400 train 83.50%, 1600 test 82.44% 
+ep 497, loss: 22.85, 6400 train 84.45%, 1600 test 82.19% 
+ep 498, loss: 23.17, 6400 train 83.23%, 1600 test 79.94% 
+ep 499, loss: 22.94, 6400 train 83.78%, 1600 test 81.25% 
+ep 500, loss: 23.41, 6400 train 83.89%, 1600 test 82.81% 
+ep 501, loss: 23.54, 6400 train 83.89%, 1600 test 81.31% 
+ep 502, loss: 23.50, 6400 train 83.95%, 1600 test 80.50% 
+ep 503, loss: 23.86, 6400 train 82.97%, 1600 test 82.06% 
+ep 504, loss: 23.77, 6400 train 83.53%, 1600 test 82.88% 
+ep 505, loss: 24.33, 6400 train 83.03%, 1600 test 81.50% 
+ep 506, loss: 24.27, 6400 train 82.55%, 1600 test 81.94% 
+ep 507, loss: 24.67, 6400 train 82.81%, 1600 test 81.56% 
+ep 508, loss: 23.19, 6400 train 84.14%, 1600 test 81.12% 
+ep 509, loss: 24.00, 6400 train 83.56%, 1600 test 81.06% 
+ep 510, loss: 22.63, 6400 train 83.80%, 1600 test 83.25% 
+ep 511, loss: 23.13, 6400 train 83.22%, 1600 test 82.81% 
+ep 512, loss: 23.51, 6400 train 83.92%, 1600 test 81.50% 
+ep 513, loss: 24.48, 6400 train 82.81%, 1600 test 81.50% 
+ep 514, loss: 23.21, 6400 train 84.34%, 1600 test 83.56% 
+ep 515, loss: 22.99, 6400 train 84.16%, 1600 test 82.00% 
+ep 516, loss: 24.09, 6400 train 83.08%, 1600 test 81.62% 
+ep 517, loss: 24.13, 6400 train 83.52%, 1600 test 81.94% 
+ep 518, loss: 23.00, 6400 train 83.98%, 1600 test 81.06% 
+ep 519, loss: 23.79, 6400 train 83.55%, 1600 test 81.75% 
+ep 520, loss: 23.00, 6400 train 83.97%, 1600 test 82.56% 
+ep 521, loss: 24.08, 6400 train 82.78%, 1600 test 79.88% 
+ep 522, loss: 24.17, 6400 train 83.28%, 1600 test 82.06% 
+ep 523, loss: 23.72, 6400 train 83.56%, 1600 test 78.50% 
+ep 524, loss: 23.66, 6400 train 83.83%, 1600 test 83.56% 
+ep 525, loss: 23.09, 6400 train 84.28%, 1600 test 80.44% 
+ep 526, loss: 22.80, 6400 train 84.06%, 1600 test 82.81% 
+ep 527, loss: 24.18, 6400 train 83.58%, 1600 test 81.19% 
+ep 528, loss: 22.70, 6400 train 84.47%, 1600 test 81.94% 
+ep 529, loss: 23.42, 6400 train 83.77%, 1600 test 80.31% 
+ep 530, loss: 22.78, 6400 train 83.89%, 1600 test 81.62% 
+ep 531, loss: 23.86, 6400 train 83.45%, 1600 test 81.62% 
+ep 532, loss: 24.67, 6400 train 82.91%, 1600 test 81.00% 
+ep 533, loss: 22.09, 6400 train 84.34%, 1600 test 82.25% 
+ep 534, loss: 23.44, 6400 train 84.08%, 1600 test 83.56% 
+ep 535, loss: 22.91, 6400 train 84.19%, 1600 test 79.75% 
+ep 536, loss: 23.62, 6400 train 83.59%, 1600 test 81.94% 
+ep 537, loss: 23.40, 6400 train 83.67%, 1600 test 83.25% 
+ep 538, loss: 23.47, 6400 train 83.88%, 1600 test 83.44% 
+ep 539, loss: 23.51, 6400 train 83.75%, 1600 test 79.00% 
+ep 540, loss: 22.67, 6400 train 83.98%, 1600 test 82.25% 
+ep 541, loss: 23.35, 6400 train 83.53%, 1600 test 83.88% 
+ep 542, loss: 23.44, 6400 train 82.98%, 1600 test 80.81% 
+ep 543, loss: 22.68, 6400 train 84.17%, 1600 test 82.56% 
+ep 544, loss: 23.38, 6400 train 83.69%, 1600 test 83.44% 
+ep 545, loss: 23.72, 6400 train 83.58%, 1600 test 82.50% 
+ep 546, loss: 22.62, 6400 train 83.78%, 1600 test 81.88% 
+ep 547, loss: 22.55, 6400 train 84.34%, 1600 test 82.56% 
+ep 548, loss: 23.72, 6400 train 83.27%, 1600 test 82.94% 
+ep 549, loss: 23.47, 6400 train 84.05%, 1600 test 80.81% 
+ep 550, loss: 23.46, 6400 train 83.88%, 1600 test 83.94% 
+ep 551, loss: 21.95, 6400 train 84.59%, 1600 test 80.81% 
+ep 552, loss: 23.78, 6400 train 83.33%, 1600 test 83.50% 
+ep 553, loss: 22.47, 6400 train 84.48%, 1600 test 82.62% 
+ep 554, loss: 25.07, 6400 train 82.23%, 1600 test 80.44% 
+ep 555, loss: 21.96, 6400 train 84.91%, 1600 test 82.56% 
+ep 556, loss: 22.38, 6400 train 84.80%, 1600 test 81.25% 
+ep 557, loss: 22.43, 6400 train 84.14%, 1600 test 82.69% 
+ep 558, loss: 23.77, 6400 train 83.61%, 1600 test 82.62% 
+ep 559, loss: 24.00, 6400 train 84.02%, 1600 test 80.19% 
+ep 560, loss: 23.56, 6400 train 83.39%, 1600 test 82.44% 
+ep 561, loss: 22.95, 6400 train 83.88%, 1600 test 82.75% 
+ep 562, loss: 21.85, 6400 train 84.59%, 1600 test 82.94% 
+ep 563, loss: 22.72, 6400 train 84.53%, 1600 test 81.50% 
+ep 564, loss: 22.09, 6400 train 83.84%, 1600 test 78.81% 
+ep 565, loss: 23.20, 6400 train 84.03%, 1600 test 83.00% 
+ep 566, loss: 24.21, 6400 train 83.23%, 1600 test 81.81% 
+ep 567, loss: 23.76, 6400 train 84.23%, 1600 test 80.94% 
+ep 568, loss: 22.39, 6400 train 84.89%, 1600 test 81.81% 
+ep 569, loss: 22.24, 6400 train 84.55%, 1600 test 82.19% 
+ep 570, loss: 23.05, 6400 train 83.83%, 1600 test 81.69% 
+ep 571, loss: 23.24, 6400 train 83.70%, 1600 test 83.50% 
+ep 572, loss: 23.39, 6400 train 83.94%, 1600 test 81.88% 
+ep 573, loss: 23.30, 6400 train 84.17%, 1600 test 80.50% 
+ep 574, loss: 22.49, 6400 train 84.53%, 1600 test 81.88% 
+ep 575, loss: 22.93, 6400 train 83.94%, 1600 test 82.69% 
+ep 576, loss: 23.99, 6400 train 83.31%, 1600 test 81.62% 
+ep 577, loss: 23.62, 6400 train 83.73%, 1600 test 81.25% 
+ep 578, loss: 22.03, 6400 train 84.09%, 1600 test 83.12% 
+ep 579, loss: 23.24, 6400 train 83.58%, 1600 test 83.38% 
+ep 580, loss: 22.36, 6400 train 83.89%, 1600 test 82.19% 
+ep 581, loss: 21.57, 6400 train 84.67%, 1600 test 81.25% 
+ep 582, loss: 23.64, 6400 train 84.06%, 1600 test 82.69% 
+, 400 test 23.25% 
+, 400 test 27.50% 
+, 400 test 37.75% 
+, 400 test 29.75% 
+, 400 test 41.25% 
+, 400 test 35.50% 
+, 400 test 39.00% 
+, 400 test 29.50% 
+, 400 test 33.00% 
+, 400 test 41.00% 
+, 400 test 37.75% 
+, 400 test 34.50% 
+, 400 test 42.50% 
+, 400 test 36.25% 
+, 400 test 35.00% 
+, 400 test 45.75% 
+, 400 test 31.50% 
+, 400 test 35.50% 
+, 400 test 41.25% 
+, 400 test 47.75% 
+, 400 test 50.25% 
+, 400 test 52.75% 
+, 400 test 52.75% 
+, 400 test 57.00% 
+, 400 test 43.75% 
+, 400 test 52.00% 
+, 400 test 56.25% 
+, 400 test 56.00% 
+, 400 test 60.00% 
+, 400 test 56.75% 
+, 400 test 53.50% 
+, 400 test 61.50% 
+, 400 test 59.00% 
+, 400 test 52.50% 
+, 400 test 66.25% 
+, 400 test 61.75% 
+, 400 test 60.75% 
+, 400 test 57.25% 
+, 400 test 66.75% 
+, 400 test 49.50% 
+, 400 test 58.75% 
+, 400 test 67.25% 
+, 400 test 61.50% 
+, 400 test 64.00% 
+, 400 test 65.50% 
+, 400 test 68.75% 
+, 400 test 66.00% 
+, 400 test 68.75% 
+, 400 test 70.00% 
+, 400 test 67.50% 
+, 400 test 70.25% 
+, 400 test 73.25% 
+, 400 test 70.75% 
+, 400 test 70.75% 
+, 400 test 72.25% 
+, 400 test 67.00% 
+, 400 test 71.25% 
+, 400 test 67.75% 
+, 400 test 75.50% 
+, 400 test 73.00% 
+, 400 test 76.25% 
+, 400 test 72.25% 
+, 400 test 75.75% 
+, 400 test 75.00% 
+, 400 test 70.75% 
+, 400 test 74.25% 
+, 400 test 73.25% 
+, 400 test 73.25% 
+, 400 test 71.25% 
+, 400 test 73.75% 
+, 400 test 74.50% 
+, 400 test 76.50% 
+, 400 test 76.75% 
+, 400 test 76.25% 
+, 400 test 74.25% 
+, 400 test 74.75% 
+, 400 test 77.00% 
+, 400 test 75.50% 
+, 400 test 75.00% 
+, 400 test 72.50% 
+, 400 test 75.00% 
+, 400 test 79.25% 
+, 400 test 75.75% 
+, 400 test 77.00% 
+, 400 test 78.00% 
+, 400 test 76.50% 
+, 400 test 80.00% 
+, 400 test 77.00% 
+, 400 test 80.00% 
+, 400 test 77.50% 
+, 400 test 78.00% 
+, 400 test 80.00% 
+, 400 test 82.50% 
+, 400 test 79.00% 
+, 400 test 79.00% 
+, 400 test 74.00% 
+, 400 test 78.75% 
+, 400 test 78.50% 
+, 400 test 78.75% 
+, 400 test 74.75% 
+, 400 test 77.25% 
+, 400 test 77.50% 
+, 400 test 80.00% 
+, 400 test 80.75% 
+, 400 test 80.25% 
+, 400 test 77.75% 
+, 400 test 81.75% 
+, 400 test 77.50% 
+, 400 test 80.25% 
+, 400 test 81.00% 
+, 400 test 77.25% 
+, 400 test 78.50% 
+, 400 test 79.75% 
+, 400 test 80.00% 
+, 400 test 80.75% 
+, 400 test 80.00% 
+, 400 test 80.25% 
+, 400 test 80.25% 
+, 400 test 81.75% 
+, 400 test 79.25% 
+, 400 test 79.50% 
+, 400 test 80.00% 
+, 400 test 80.00% 
+, 400 test 80.00% 
+, 400 test 82.75% 
+, 400 test 80.00% 
+, 400 test 79.00% 
+, 400 test 80.00% 
+, 400 test 80.00% 
+, 400 test 85.50% 
+, 400 test 83.00% 
+, 400 test 80.50% 
+, 400 test 78.25% 
+, 400 test 78.00% 
+, 400 test 79.75% 
+, 400 test 83.50% 
+, 400 test 74.00% 
+, 400 test 80.25% 
+, 400 test 81.25% 
+, 400 test 83.50% 
+, 400 test 80.25% 
+, 400 test 80.25% 
+, 400 test 80.75% 
+, 400 test 77.25% 
+, 400 test 82.00% 
+, 400 test 82.00% 
+, 400 test 79.00% 
+, 400 test 81.75% 
+, 400 test 81.50% 
+, 400 test 82.25% 
+, 400 test 80.00% 
+, 400 test 79.50% 
+, 400 test 77.50% 
+, 400 test 82.00% 
+, 400 test 82.00% 
+, 400 test 80.25% 
+, 400 test 81.75% 
+, 400 test 82.50% 
+, 400 test 80.00% 
+, 400 test 81.25% 
+, 400 test 82.75% 
+, 400 test 83.75% 
+, 400 test 81.50% 
+, 400 test 78.75% 
+, 400 test 82.00% 
+, 400 test 82.75% 
+, 400 test 78.50% 
+, 400 test 80.00% 
+, 400 test 82.00% 
+, 400 test 81.50% 
+, 400 test 83.75% 
+, 400 test 24.75% 
+, 400 test 34.75% 
+, 400 test 39.00% 
